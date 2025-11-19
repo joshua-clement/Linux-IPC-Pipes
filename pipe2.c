@@ -1,3 +1,4 @@
+//C Program that illustrate communication between two process using named pipes
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
